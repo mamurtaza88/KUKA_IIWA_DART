@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krang/SethResearch/operational_space_control_SepareteRESCLF_JointBarrier_IIWA/main.cpp
+dart/dart.hpp
+-
+dart/gui/osg/osg.hpp
+-
+dart/utils/urdf/urdf.hpp
+-
+dart/utils/utils.hpp
+-
+nlopt.hpp
+-
+cmath
+-
+iostream
+-
+fstream
+-
+dart/gui/osg/InteractiveFrame.hpp
+-
+
